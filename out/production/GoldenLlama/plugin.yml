@@ -1,0 +1,8 @@
+name: GoldenLlama
+main: me.javac.main.Main
+version: 1.0.0
+commands:
+  spawnllama:
+    description: Spawns llama
+    permission: goldenllama.spawn
+    usage: /spawnllama
